@@ -1,0 +1,1 @@
+print("Merhaba GitHub ! Ödev 1 tamamlandı.")
